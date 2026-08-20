@@ -10,6 +10,7 @@
 <a href="mailto:fuzailcode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://fuzailahmed-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://pk.linkedin.com/in/fuzail-ahmed-5bb991355"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://flowcv.com/resume/utg9ephbw6qj"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
@@ -80,6 +81,7 @@
 <a href="mailto:fuzailcode@gmail.com"><img src="https://img.shields.io/badge/-Send%20an%20Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://pk.linkedin.com/in/fuzail-ahmed-5bb991355"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://fuzailahmed-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-View%20Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://flowcv.com/resume/utg9ephbw6qj"><img src="https://img.shields.io/badge/-View%20Resume-4CAF50?style=flat-square&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
