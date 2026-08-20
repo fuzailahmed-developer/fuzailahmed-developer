@@ -16,11 +16,13 @@
   <a href="https://fuzailahmed-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/fuzail-ahmed-5bb991355" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://wa.me/923162552534" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
   <a href="mailto:fuzailcode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-fuzailcode%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -54,6 +56,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/fuzail-ahmed-5bb991355" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/923162552534" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
   <a href="mailto:fuzailcode@gmail.com">
@@ -127,28 +133,6 @@
   <a href="https://www.adobe.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ps" width="45" />
   </a>
-</p>
-
----
-
-<!-- PROJECTS -->
-
-<h3 align="center">🚀 Featured Projects</h3>
-
-<p align="center">
-
-  <a href="https://nexa-ai-clone-by-fuzail.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Nexa%20AI%20Clone-View%20Project-000000?style=for-the-badge" />
-  </a>
-
-  <a href="https://fuzail-weather-app.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Weather%20App-View%20Project-0e75b6?style=for-the-badge" />
-  </a>
-
-  <a href="https://dynamic-landing-page.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Dynamic%20Landing%20Page-View%20Project-4e9af1?style=for-the-badge" />
-  </a>
-
 </p>
 
 ---
